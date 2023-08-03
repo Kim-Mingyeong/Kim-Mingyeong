@@ -1,4 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Mingyeong👋)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Mingyeong👋&fontSize=40)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=m_ngyeong)](https://velog.io/@m_ngyeong) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Mingyeong&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Mingyeong&show_icons=true&theme=transparent)
+
 
 <!--
 **Kim-Mingyeong/Kim-Mingyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
