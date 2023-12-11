@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=MIN-GYEONG👻&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Venom&text=MinGyeong👻&color=gradient&fontColor=black&fontSize=50)
 
-<h3>☘️ Blog </h3>
+<h3>💻 DEV's Log </h3>
  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=m_ngyeong)](https://velog.io/@m_ngyeong) 
 
@@ -15,7 +15,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Mingyeong&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Mingyeong&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Mingyeong&show_icons=true&theme=vue)
 
 
 <!--
