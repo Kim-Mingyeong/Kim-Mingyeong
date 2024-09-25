@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&text=MinGyeong👻&color=gradient&fontColor=black&fontSize=50)
-
+<!--
 <h3>💻 DEV's Log </h3>
- 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=m_ngyeong)](https://velog.io/@m_ngyeong) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=m_ngyeong)](https://velog.io/@m_ngyeong)
+-->
 
 <h3>🛠 Skills </h3>
 <div>
