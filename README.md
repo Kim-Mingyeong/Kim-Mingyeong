@@ -15,10 +15,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Mingyeong&layout=compact)
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Mingyeong&show_icons=true&theme=vue)
 
-
-<!--
 **Kim-Mingyeong/Kim-Mingyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
