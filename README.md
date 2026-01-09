@@ -1,10 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&text=MinGyeong👻&color=gradient&fontColor=black&fontSize=50)
 
+
+
+<!--
 <h3>🛠 Skills </h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Mingyeong&layout=compact)
 
-<!--
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
